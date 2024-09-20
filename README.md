@@ -1,4 +1,4 @@
-# Gaia-8G
+# Gaia-8GB
 
 ### This is a quick guide if you're trying to run a node on a machine that doesn't meet the minimum system requirements as mentioned [here](https://docs.gaianet.ai/node-guide/quick-start/)
 
